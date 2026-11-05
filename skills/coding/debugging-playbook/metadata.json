@@ -1,0 +1,16 @@
+{
+  "name": "debugging-playbook",
+  "description": "Diagnose software failures systematically from symptoms to a verified minimal fix.",
+  "category": "coding",
+  "tags": ["debugging", "diagnostics", "testing"],
+  "source_repository": "https://github.com/zahid-marwat/agentic-skills-hub",
+  "original_path": "skills/coding/debugging-playbook",
+  "author": "Zahid Marwat",
+  "license": "MIT",
+  "source_commit": null,
+  "date_added": "2026-11-05",
+  "last_verified": "2026-11-05",
+  "adapted": false,
+  "supported_agents": ["Claude Code", "Codex", "Cursor", "Gemini CLI", "GitHub Copilot"],
+  "admission_status": "Approved"
+}

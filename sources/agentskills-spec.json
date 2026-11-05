@@ -1,0 +1,8 @@
+{
+  "name": "Agent Skills specification",
+  "repository": "https://agentskills.io/",
+  "license": "See the specification website for current terms.",
+  "redistribution_status": "Specification reference; implementation content in this repository is original unless noted.",
+  "notes": "Used as the compatibility target for SKILL.md naming and frontmatter shape.",
+  "last_verified": "2026-11-05"
+}

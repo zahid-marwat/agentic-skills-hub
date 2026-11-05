@@ -1,0 +1,16 @@
+{
+  "name": "code-review",
+  "description": "Perform a structured, evidence-based code review focused on correctness, security, and maintainability.",
+  "category": "coding",
+  "tags": ["code-review", "quality", "security"],
+  "source_repository": "https://github.com/zahid-marwat/agentic-skills-hub",
+  "original_path": "skills/coding/code-review",
+  "author": "Zahid Marwat",
+  "license": "MIT",
+  "source_commit": null,
+  "date_added": "2026-11-05",
+  "last_verified": "2026-11-05",
+  "adapted": false,
+  "supported_agents": ["Claude Code", "Codex", "Cursor", "Gemini CLI", "GitHub Copilot"],
+  "admission_status": "Approved"
+}

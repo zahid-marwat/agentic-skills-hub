@@ -1,0 +1,8 @@
+{
+  "name": "OpenAI Skills",
+  "repository": "https://github.com/openai/skills",
+  "license": "Per-skill; inspect each skill LICENSE.txt.",
+  "redistribution_status": "Do not copy without checking the individual skill license.",
+  "notes": "The repository README is marked deprecated and points to current Codex plugin guidance.",
+  "last_verified": "2026-11-05"
+}

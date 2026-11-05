@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Coverage and build output
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Editors and OS files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+# Local generated or temporary files
+.cache/
+tmp/
+temp/
+*.log

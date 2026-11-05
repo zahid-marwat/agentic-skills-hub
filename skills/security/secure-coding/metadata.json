@@ -1,0 +1,16 @@
+{
+  "name": "secure-coding",
+  "description": "Apply a practical secure-coding checklist to changes involving input, auth, secrets, data, and dependencies.",
+  "category": "security",
+  "tags": ["security", "secure-coding", "dependencies", "auth"],
+  "source_repository": "https://github.com/zahid-marwat/agentic-skills-hub",
+  "original_path": "skills/security/secure-coding",
+  "author": "Zahid Marwat",
+  "license": "MIT",
+  "source_commit": null,
+  "date_added": "2026-11-05",
+  "last_verified": "2026-11-05",
+  "adapted": false,
+  "supported_agents": ["Claude Code", "Codex", "Cursor", "Gemini CLI", "GitHub Copilot"],
+  "admission_status": "Approved"
+}

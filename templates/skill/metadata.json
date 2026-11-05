@@ -1,0 +1,16 @@
+{
+  "name": "replace-with-kebab-case-name",
+  "description": "Describe what the skill does and when an agent should use it.",
+  "category": "coding",
+  "tags": ["replace", "these"],
+  "source_repository": "https://github.com/your-org/your-repository",
+  "original_path": "path/to/skill",
+  "author": "Unknown",
+  "license": "MIT",
+  "source_commit": null,
+  "date_added": "YYYY-MM-DD",
+  "last_verified": "YYYY-MM-DD",
+  "adapted": false,
+  "supported_agents": [],
+  "admission_status": "Under Review"
+}

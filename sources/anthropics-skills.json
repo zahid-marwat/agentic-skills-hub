@@ -1,0 +1,8 @@
+{
+  "name": "Anthropic Skills",
+  "repository": "https://github.com/anthropics/skills",
+  "license": "Mixed: repository README states many skills are Apache-2.0; some document skills are source-available.",
+  "redistribution_status": "Review each skill directory and its notices before copying.",
+  "notes": "Public reference ecosystem. This hub does not redistribute Anthropic content by default.",
+  "last_verified": "2026-11-05"
+}

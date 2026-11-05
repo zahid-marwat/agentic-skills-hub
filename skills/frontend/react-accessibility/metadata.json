@@ -1,0 +1,16 @@
+{
+  "name": "react-accessibility",
+  "description": "Review React interfaces for semantic HTML, keyboard access, focus management, and accessible feedback.",
+  "category": "frontend",
+  "tags": ["react", "accessibility", "frontend", "ui"],
+  "source_repository": "https://github.com/zahid-marwat/agentic-skills-hub",
+  "original_path": "skills/frontend/react-accessibility",
+  "author": "Zahid Marwat",
+  "license": "MIT",
+  "source_commit": null,
+  "date_added": "2026-11-05",
+  "last_verified": "2026-11-05",
+  "adapted": false,
+  "supported_agents": ["Claude Code", "Codex", "Cursor", "Gemini CLI", "GitHub Copilot"],
+  "admission_status": "Approved"
+}
