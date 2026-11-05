@@ -16,3 +16,7 @@ failing boundary, and verify the fix against the original symptom.
 4. Inspect the failing path and its assumptions; avoid unrelated refactors.
 5. Add or update a regression test, then run the narrowest relevant suite.
 6. Report the root cause, change, verification, and remaining limitations.
+
+## Agent instructions
+
+For delegating or invoking this skill from another agent or conversation, see [USE_INSTRUCTIONS.md](USE_INSTRUCTIONS.md).

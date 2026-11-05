@@ -54,6 +54,67 @@
     "path": "skills/coding/debugging-playbook"
   },
   {
+    "name": "hallmark",
+    "description": "Design skill for websites and new pages that look designed, not generated. Enforces an anti-AI-slop floor, design tokens, and fifty distinct visual themes.",
+    "category": "frontend",
+    "tags": [
+      "ui",
+      "design",
+      "anti-ai-slop",
+      "themes",
+      "typography",
+      "css"
+    ],
+    "source_repository": "https://github.com/zahid-marwat/hallmark",
+    "original_path": "skills/hallmark",
+    "author": "Together AI",
+    "license": "MIT",
+    "source_commit": "de4999e0cd7a7a41df0b4e6903fa02fe9f1492a8",
+    "date_added": "2026-11-05",
+    "last_verified": "2026-11-05",
+    "adapted": false,
+    "supported_agents": [
+      "Claude Code",
+      "Codex",
+      "Cursor",
+      "Gemini CLI",
+      "OpenCode"
+    ],
+    "admission_status": "Approved",
+    "path": "skills/frontend/hallmark"
+  },
+  {
+    "name": "impeccable",
+    "description": "Design vocabulary and playbooks for frontend interface craft: critique, audit, polish, bolder, quieter, and slop-prevention across web and native screens.",
+    "category": "frontend",
+    "tags": [
+      "ui",
+      "ux",
+      "design-system",
+      "critique",
+      "audit",
+      "refinement"
+    ],
+    "source_repository": "https://github.com/zahid-marwat/impeccable",
+    "original_path": ".agents/skills/impeccable",
+    "author": "Paul Bakaus",
+    "license": "Apache-2.0",
+    "source_commit": "c8891a9ae865d6ee311836ae5199bfce0fe115b1",
+    "date_added": "2026-11-05",
+    "last_verified": "2026-11-05",
+    "adapted": true,
+    "supported_agents": [
+      "Claude Code",
+      "Cursor",
+      "Codex",
+      "Devin",
+      "Gemini CLI",
+      "GitHub Copilot"
+    ],
+    "admission_status": "Approved",
+    "path": "skills/frontend/impeccable"
+  },
+  {
     "name": "react-accessibility",
     "description": "Review React interfaces for semantic HTML, keyboard access, focus management, and accessible feedback.",
     "category": "frontend",
@@ -108,5 +169,35 @@
     ],
     "admission_status": "Approved",
     "path": "skills/security/secure-coding"
+  },
+  {
+    "name": "ui-ux-pro-max",
+    "description": "UI/UX design intelligence with searchable styles, palettes, font pairings, UX guidelines, and stack-specific rules across web, mobile, and desktop.",
+    "category": "frontend",
+    "tags": [
+      "ui",
+      "ux",
+      "design-system",
+      "color-palette",
+      "typography",
+      "accessibility"
+    ],
+    "source_repository": "https://github.com/zahid-marwat/ui-ux-pro-max-skill",
+    "original_path": ".claude/skills/ui-ux-pro-max",
+    "author": "NextLevelBuilder",
+    "license": "MIT",
+    "source_commit": "b7d5353e0130feb8c5574ef1251f8a1db1873ccb",
+    "date_added": "2026-11-05",
+    "last_verified": "2026-11-05",
+    "adapted": false,
+    "supported_agents": [
+      "Claude Code",
+      "Cursor",
+      "Codex",
+      "Gemini CLI",
+      "GitHub Copilot"
+    ],
+    "admission_status": "Approved",
+    "path": "skills/frontend/ui-ux-pro-max"
   }
 ]

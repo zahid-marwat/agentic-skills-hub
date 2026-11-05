@@ -1,0 +1,17 @@
+{
+  "name": "ui-ux-pro-max",
+  "description": "UI/UX design intelligence with searchable styles, palettes, font pairings, UX guidelines, and stack-specific rules across web, mobile, and desktop.",
+  "category": "frontend",
+  "tags": ["ui", "ux", "design-system", "color-palette", "typography", "accessibility"],
+  "source_repository": "https://github.com/zahid-marwat/ui-ux-pro-max-skill",
+  "original_path": ".claude/skills/ui-ux-pro-max",
+  "author": "NextLevelBuilder",
+  "license": "MIT",
+  "source_commit": "b7d5353e0130feb8c5574ef1251f8a1db1873ccb",
+  "date_added": "2026-11-05",
+  "last_verified": "2026-11-05",
+  "adapted": false,
+  "supported_agents": ["Claude Code", "Cursor", "Codex", "Gemini CLI", "GitHub Copilot"],
+  "admission_status": "Approved"
+}
+

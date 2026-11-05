@@ -1,0 +1,10 @@
+{
+  "name": "Onyx",
+  "repository": "https://github.com/zahid-marwat/onyx",
+  "upstream_repository": "https://github.com/onyx-dot-app/onyx",
+  "license": "Dual-licensed: MIT Expat for core codebase; Onyx Enterprise License for ee/ directories.",
+  "redistribution_status": "Under Review: skills currently in .agents/skills/ (docs-writing, feature-map) are tightly coupled internal workflows for the Onyx product and touch enterprise-gated components.",
+  "notes": "Reference-only pending adaptation into a generalized technical documentation and codebase architecture mapping skill.",
+  "last_verified": "2026-11-05"
+}
+

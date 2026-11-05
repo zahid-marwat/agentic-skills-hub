@@ -10,3 +10,4 @@ contains a reference and the original source remains the installation path.
 - [OpenAI Skills](openai-skills.json)
 - [Awesome Claude Skills](awesome-claude-skills.json)
 - [Agent Skills specification](agentskills-spec.json)
+- [Onyx](onyx.json)

@@ -20,3 +20,7 @@ code, tests, configuration, and documentation before forming conclusions.
 
 Do not report style preferences as defects. Do not claim a test passed unless
 you ran it.
+
+## Agent instructions
+
+For delegating or invoking this skill from another agent or conversation, see [USE_INSTRUCTIONS.md](USE_INSTRUCTIONS.md).

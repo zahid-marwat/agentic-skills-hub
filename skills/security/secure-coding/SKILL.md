@@ -18,3 +18,7 @@ files, URLs, and serialized data as untrusted until explicitly validated.
 - Pin and audit dependencies using the repository's standard tooling.
 - Avoid leaking secrets or sensitive data in logs and error responses.
 - Add regression tests for any security-sensitive fix and document residual risk.
+
+## Agent instructions
+
+For delegating or invoking this skill from another agent or conversation, see [USE_INSTRUCTIONS.md](USE_INSTRUCTIONS.md).

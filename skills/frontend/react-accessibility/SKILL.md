@@ -17,3 +17,7 @@ before adding ARIA, and ensure every interaction works without a mouse.
 - Expose loading, success, and error state changes to assistive technology.
 - Respect reduced motion and adequate color contrast.
 - Test with a keyboard and the project's existing accessibility tooling.
+
+## Agent instructions
+
+For delegating or invoking this skill from another agent or conversation, see [USE_INSTRUCTIONS.md](USE_INSTRUCTIONS.md).

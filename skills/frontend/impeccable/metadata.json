@@ -1,0 +1,17 @@
+{
+  "name": "impeccable",
+  "description": "Design vocabulary and playbooks for frontend interface craft: critique, audit, polish, bolder, quieter, and slop-prevention across web and native screens.",
+  "category": "frontend",
+  "tags": ["ui", "ux", "design-system", "critique", "audit", "refinement"],
+  "source_repository": "https://github.com/zahid-marwat/impeccable",
+  "original_path": ".agents/skills/impeccable",
+  "author": "Paul Bakaus",
+  "license": "Apache-2.0",
+  "source_commit": "c8891a9ae865d6ee311836ae5199bfce0fe115b1",
+  "date_added": "2026-11-05",
+  "last_verified": "2026-11-05",
+  "adapted": true,
+  "supported_agents": ["Claude Code", "Cursor", "Codex", "Devin", "Gemini CLI", "GitHub Copilot"],
+  "admission_status": "Approved"
+}
+
